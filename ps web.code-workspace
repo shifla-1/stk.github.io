@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "stk",
+			"path": "stk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ps web"
+	}
+}
